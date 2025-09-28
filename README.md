@@ -1,1 +1,1 @@
-# Real-time visual multi-agent systems
+# Real-time problem solving using visual multi-agent systems
